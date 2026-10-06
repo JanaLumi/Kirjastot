@@ -6,8 +6,7 @@ A collection of open-source frameworks, spatial designs, media experiments, and 
 Overview
 This repository serves as a working backlog for initiatives designed to transform the local library into an active, multi-disciplinary community hub.
 Project Backlog
-1. Space & Layout Optimisation
- * [Automated Audio Protocols](projects/automated_audio.md): A scheduled MP3/clock radio system configured to play curated 15-to-20-minute playlist cues for opening and closing routines, using thematic music to anchor staff workflow transitions and memory recall.
+1. [Space & Layout Optimisation](projects/floorplan.md)
  * Interactive Floor Plan Model: A physical or modular layout featuring movable furniture pieces to allow staff and visitors to test different spatial configurations hands-on and observe traffic flow.
  * Space-Use Evaluation: Ongoing spatial mapping to identify dead zones and plan inviting zones for community lingering, small events, or quiet study.
 2. [Local Heritage & Community Maps](projects/maps.md) (QGIS)
@@ -26,4 +25,5 @@ Project Backlog
  * Ergonomic & Safety Audits: Reviewing equipment placement (e.g., paper guillotines) to balance child safety constraints with adult accessibility.
  * Low-Footprint Production Tools: Curating compact, high-utility hardware optimised for small spaces, such as sticker printer-cutters and a button/pin press.
  * Enclosed Digital Fabrication: Designing safety-first enclosures for 3D printers or small laser cutters featuring integrated air filtration systems to safely handle fumes in a shared public space.
-
+7. Coordination and organising
+ * [Automated Audio Protocols](projects/automated_audio.md): A scheduled MP3/clock radio system configured to play curated 15-to-20-minute playlist cues for opening and closing routines, using thematic music to anchor staff workflow transitions and memory recall.
