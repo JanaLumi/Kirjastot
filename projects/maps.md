@@ -1,8 +1,8 @@
 # Visitors map with QGIS
 
 ## Local Heritage & Community Maps (QGIS Practice)
- * Local Discovery Map: A printed, pocket-sized neighborhood map highlighting points of interest, quiet walking routes, and local history notes.
- * Themed Walking Tours: Specialty maps—such as a "Vivi Learn" tour—designed to guide visitors through specific local learning spots or historical touchpoints.
+ * Local Discovery Map: A printed, pocket-sized neighbourhood map highlighting points of interest, quiet walking routes, and local history notes.
+ * Themed Walking Tours: Specialty maps—such as a "Wivi Lönn" tour—designed to guide visitors through specific local learning spots or historical touchpoints.
  * Tool Focus: Built via QGIS as a low-friction, practical pilot project for learning open-source mapping software.
 
 **Tools**
