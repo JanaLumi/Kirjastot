@@ -1,4 +1,4 @@
-# Scheduled Playlist Protocol Ideas (15–20 Minutes)
+# Automated Audio Protocol (15–20 Minutes)
 To match the track you already have (the "getting out of this place" energy—potentially nodding to tracks like The Animals' "We Gotta Get Out of This Place" or similar driving rhythms), here is a directional 5-song arc that leans into functional, grounded momentum without crossing into Sesame Street territory:
  * The Transition / Wind-Down (Minutes 0–4): Something steady and rhythmic to signal that the final stretch has begun.
    * Direction: Mid-tempo indie or classic rock with a clear, walking beat.
