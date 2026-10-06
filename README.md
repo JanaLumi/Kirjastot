@@ -25,3 +25,4 @@ Project Backlog
  * Ergonomic & Safety Audits: Reviewing equipment placement (e.g., paper guillotines) to balance child safety constraints with adult accessibility.
  * Low-Footprint Production Tools: Curating compact, high-utility hardware optimised for small spaces, such as sticker printer-cutters and a button/pin press.
  * Enclosed Digital Fabrication: Designing safety-first enclosures for 3D printers or small laser cutters featuring integrated air filtration systems to safely handle fumes in a shared public space.
+ * Automated Audio Protocols: A scheduled MP3/clock radio system configured to play curated 15-to-20-minute playlist cues for opening and closing routines, using thematic music to anchor staff workflow transitions and memory recall.
